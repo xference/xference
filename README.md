@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 | <img src="https://github-readme-stats.vercel.app/api?username=xference&show_icons=true&theme=ambient_gradient" alt="xference's GitHub stats" align="center"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=xference"  style="zoom:100%;" align="center"/> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-![](https://raw.githubusercontent.com/xference/xference/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xference/xference/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xference/xference/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xference/xference/output/github-contribution-grid-snake.svg" />
+</picture>
