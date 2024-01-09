@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Total Time: 1 hr 49 mins
+Total Time: 1 hr 59 mins
 
-Other      4 hrs 35 mins   ██████████████████░░░░░░░   71.49 %
-Markdown   1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Python     24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-MATLAB     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-SQL        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other      4 hrs 35 mins   █████████████████▒░░░░░░░   69.81 %
+Markdown   1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
+Python     24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+MATLAB     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+SQL        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
