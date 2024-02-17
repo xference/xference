@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2024 - To: 15 February 2024
+From: 09 February 2024 - To: 16 February 2024
 
-Total Time: 58 mins
+Total Time: 1 hr 30 mins
 
-Java   58 mins         █████████████████████████   100.00 %
+Java       58 mins         ████████████████▒░░░░░░░░   65.17 %
+Markdown   31 mins         ████████▓░░░░░░░░░░░░░░░░   34.83 %
 ```
 
 <!--END_SECTION:waka-->
