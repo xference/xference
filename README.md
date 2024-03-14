@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
-Total Time: 53 hrs 12 mins
+Total Time: 50 hrs 8 mins
 
-Java              36 hrs 51 mins  █████████████████▒░░░░░░░   69.27 %
-Vue.js            4 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-Dart              3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-XML               1 hr 57 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Python            1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Java              34 hrs 17 mins  █████████████████░░░░░░░░   68.38 %
+Vue.js            4 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Dart              3 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+XML               2 hrs 53 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Markdown          1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
