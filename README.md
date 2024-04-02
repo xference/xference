@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-Total Time: 5 hrs 55 mins
+Total Time: 5 hrs 20 mins
 
-Python            1 hr 53 mins    ████████░░░░░░░░░░░░░░░░░   31.96 %
-Java              1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-Markdown          1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-HTML              34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Vue.js            12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Python            1 hr 53 mins    █████████░░░░░░░░░░░░░░░░   35.40 %
+Markdown          1 hr 13 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+Java              1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+HTML              31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+JSON              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
