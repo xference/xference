@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2024 - To: 20 June 2024
+From: 14 June 2024 - To: 21 June 2024
 
-Total Time: 51 mins
+Total Time: 1 hr 12 mins
 
-Python   49 mins         ████████████████████████░   96.34 %
-HTML     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Python   1 hr 2 mins     █████████████████████▓░░░   86.37 %
+Java     7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+HTML     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
