@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2024 - To: 17 July 2024
+From: 11 July 2024 - To: 18 July 2024
 
-Total Time: 4 hrs 9 mins
+Total Time: 3 hrs 46 mins
 
-HTML         1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   28.53 %
-JavaScript   41 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-CSS          34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Java         32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-Vue.js       28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+HTML         1 hr 10 mins    ███████▓░░░░░░░░░░░░░░░░░   31.01 %
+JavaScript   41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+CSS          34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+Java         32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Vue.js       28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
 ```
 
 <!--END_SECTION:waka-->
