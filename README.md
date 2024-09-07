@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2024 - To: 05 September 2024
+From: 30 August 2024 - To: 06 September 2024
 
-Total Time: 2 hrs 48 mins
+Total Time: 2 hrs 41 mins
 
-Dart              1 hr 36 mins    ██████████████▒░░░░░░░░░░   57.57 %
-Java              46 mins         ███████░░░░░░░░░░░░░░░░░░   27.62 %
-YAML              9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-CLASS             8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Properties        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Dart         1 hr 36 mins    ███████████████░░░░░░░░░░   60.11 %
+Java         36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
+Vue.js       14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+CLASS        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
