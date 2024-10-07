@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
-Total Time: 29 mins
+Total Time: 14 mins
 
-Markdown     14 mins         ████████████▓░░░░░░░░░░░░   50.87 %
-Vue.js       14 mins         ████████████▒░░░░░░░░░░░░   48.85 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Markdown   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
