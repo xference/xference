@@ -23,14 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-Total Time: 39 mins
+Total Time: 0 secs
 
-Java         29 mins         ██████████████████▓░░░░░░   74.29 %
-JavaScript   9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Vue.js       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
