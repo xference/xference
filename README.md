@@ -23,15 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Total Time: 8 mins
+Total Time: 2 mins
 
-Java         5 mins          ████████████████▓░░░░░░░░   67.32 %
-Markdown     2 mins          ████████░░░░░░░░░░░░░░░░░   31.74 %
-Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
