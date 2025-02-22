@@ -23,12 +23,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-Total Time: 27 mins
+Total Time: 33 mins
 
-Markdown   19 mins         ██████████████████▒░░░░░░   72.97 %
-Dart       7 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
+Markdown   19 mins         ██████████████▓░░░░░░░░░░   58.86 %
+Java       12 mins         █████████▓░░░░░░░░░░░░░░░   38.51 %
+Gradle     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Dart       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
