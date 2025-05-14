@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 12 May 2025
+From: 06 May 2025 - To: 13 May 2025
 
-Total Time: 18 mins
+Total Time: 2 mins
 
-Python   16 mins         █████████████████████▒░░░   85.51 %
-MATLAB   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Dart     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python   2 mins          █████████████████████████   99.64 %
+Dart     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
