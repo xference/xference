@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2025 - To: 27 May 2025
+From: 21 May 2025 - To: 28 May 2025
 
-Total Time: 32 hrs 11 mins
+Total Time: 22 hrs 49 mins
 
-Dart                   30 hrs 23 mins  ███████████████████████▓░   94.43 %
-Gradle                 26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Groovy                 21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Markdown               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Python                 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Dart                   21 hrs 2 mins   ███████████████████████░░   92.19 %
+Gradle                 26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Groovy                 21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Python                 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
