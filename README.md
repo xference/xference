@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2025 - To: 02 June 2025
+From: 27 May 2025 - To: 03 June 2025
 
-Total Time: 7 hrs 11 mins
+Total Time: 3 hrs 29 mins
 
-Dart       6 hrs 28 mins   ██████████████████████▒░░   89.87 %
-Markdown   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Python     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Dart       2 hrs 58 mins   █████████████████████▒░░░   85.51 %
+Markdown   30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Cocoa      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
