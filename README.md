@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 06 June 2025
+From: 31 May 2025 - To: 07 June 2025
 
-Total Time: 1 hr
+Total Time: 33 mins
 
-Dart           43 mins         █████████████████▓░░░░░░░   71.21 %
-Markdown       17 mins         ███████░░░░░░░░░░░░░░░░░░   28.63 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Dart           32 mins         ████████████████████████▓   98.96 %
+Markdown       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
