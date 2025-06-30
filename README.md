@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2025 - To: 28 June 2025
+From: 22 June 2025 - To: 29 June 2025
 
-Total Time: 40 mins
+Total Time: 2 hrs 4 mins
 
-Python           24 mins         ███████████████▓░░░░░░░░░   62.21 %
-HTML             5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Markdown         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-JavaScript       4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-Java             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Python           1 hr 21 mins    ████████████████▒░░░░░░░░   65.07 %
+Text             21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+Markdown         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+HTML             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+JavaScript       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
