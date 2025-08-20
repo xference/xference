@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2025 - To: 18 August 2025
+From: 12 August 2025 - To: 19 August 2025
 
-Total Time: 3 hrs 20 mins
+Total Time: 3 hrs 11 mins
 
-Java              2 hrs 8 mins    ████████████████░░░░░░░░░   64.45 %
-Python            1 hr 10 mins    ████████▓░░░░░░░░░░░░░░░░   35.21 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Java              2 hrs 8 mins    ████████████████▓░░░░░░░░   67.27 %
+Python            1 hr 2 mins     ████████░░░░░░░░░░░░░░░░░   32.37 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 CLASS             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
