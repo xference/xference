@@ -23,15 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2025 - To: 26 August 2025
+From: 20 August 2025 - To: 27 August 2025
 
-Total Time: 1 hr 32 mins
+Total Time: 0 secs
 
-Java              1 hr 18 mins    █████████████████████▒░░░   85.03 %
-Markdown          11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-JavaScript        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
