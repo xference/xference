@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
-Total Time: 4 hrs 15 mins
+Total Time: 4 hrs 5 mins
 
-Java              2 hrs 23 mins   ██████████████░░░░░░░░░░░   56.07 %
-Python            59 mins         ██████░░░░░░░░░░░░░░░░░░░   23.42 %
-Vue.js            28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Java Properties   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-JavaScript        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Java              2 hrs 23 mins   ██████████████▓░░░░░░░░░░   58.33 %
+Python            49 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+Vue.js            28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Java Properties   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+JavaScript        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
