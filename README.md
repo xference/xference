@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2025 - To: 28 October 2025
+From: 22 October 2025 - To: 29 October 2025
 
-Total Time: 0 secs
+Total Time: 24 mins
 
-No activity tracked
+CLASS   21 mins         ██████████████████████░░░   87.86 %
+Java    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+HTML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
