@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2025 - To: 01 November 2025
+From: 26 October 2025 - To: 02 November 2025
 
-Total Time: 47 mins
+Total Time: 8 hrs 19 mins
 
-CLASS      21 mins         ███████████▒░░░░░░░░░░░░░   45.87 %
-Java       13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-Markdown   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
-YAML       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Java         4 hrs 28 mins   █████████████▒░░░░░░░░░░░   53.73 %
+XML          2 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.85 %
+textmate     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+CLASS        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
