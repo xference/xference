@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-Total Time: 8 hrs 33 mins
+Total Time: 4 hrs 5 mins
 
-XML          4 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.40 %
-Java         3 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   45.55 %
-textmate     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Java         2 hrs 7 mins    █████████████░░░░░░░░░░░░   51.97 %
+XML          1 hr 39 mins    ██████████░░░░░░░░░░░░░░░   40.57 %
+textmate     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
