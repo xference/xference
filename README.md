@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2025 - To: 01 December 2025
+From: 26 November 2025 - To: 03 December 2025
 
-Total Time: 0 secs
+Total Time: 44 mins
 
-No activity tracked
+Dart             36 mins         █████████████████████░░░░   83.63 %
+YAML             6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
