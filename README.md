@@ -23,14 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2025 - To: 04 December 2025
+From: 28 November 2025 - To: 05 December 2025
 
-Total Time: 47 mins
+Total Time: 1 hr 57 mins
 
-Dart             39 mins         █████████████████████░░░░   84.64 %
-YAML             6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Dart             1 hr 48 mins    ███████████████████████░░   92.53 %
+YAML             7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+ObjectiveC       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
