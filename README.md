@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2025 - To: 06 December 2025
+From: 30 November 2025 - To: 07 December 2025
 
-Total Time: 1 hr 57 mins
+Total Time: 6 hrs 58 mins
 
-Dart             1 hr 48 mins    ███████████████████████░░   92.53 %
-YAML             7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-ObjectiveC       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Dart             4 hrs 45 mins   █████████████████░░░░░░░░   68.20 %
+Python           56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+YAML             54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+Text             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Markdown         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
