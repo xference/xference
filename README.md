@@ -23,11 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Total Time: 0 secs
+Total Time: 44 mins
 
-No activity tracked
+Java              31 mins         █████████████████▓░░░░░░░   71.30 %
+YAML              6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Java Properties   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Properties        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+JSON              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
