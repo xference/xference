@@ -23,15 +23,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
-Total Time: 1 hr 28 mins
+Total Time: 1 hr
 
-Dart         1 hr 23 mins    ███████████████████████▓░   94.01 %
-Python       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Dart       55 mins         ███████████████████████░░   91.77 %
+Python     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
