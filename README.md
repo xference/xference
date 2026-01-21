@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 19 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
-Total Time: 28 mins
+Total Time: 2 hrs 13 mins
 
-Dart     20 mins         █████████████████▓░░░░░░░   70.98 %
-Python   8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.02 %
+Python      1 hr 51 mins    █████████████████████░░░░   83.97 %
+Dart        20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Batchfile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
