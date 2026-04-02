@@ -23,11 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-Total Time: 32 mins
+Total Time: 5 hrs 57 mins
 
-Markdown   32 mins               █████████████████████████   100.00 %
+Markdown     3 hrs 14 mins         █████████████▓░░░░░░░░░░░   54.49 %
+Vue.js       1 hr 26 mins          ██████░░░░░░░░░░░░░░░░░░░   24.15 %
+Go           50 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+JavaScript   20 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+JSON         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
