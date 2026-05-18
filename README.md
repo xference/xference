@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2026 - To: 16 May 2026
+From: 10 May 2026 - To: 17 May 2026
 
-Total Time: 18 hrs 4 mins
+Total Time: 24 hrs 33 mins
 
-Go           9 hrs 22 mins         █████████████░░░░░░░░░░░░   51.89 %
-Vue          7 hrs 29 mins         ██████████▒░░░░░░░░░░░░░░   41.45 %
-Markdown     33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-JSON         21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-JavaScript   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Vue          11 hrs 59 mins        ████████████░░░░░░░░░░░░░   48.17 %
+Go           10 hrs 40 mins        ██████████▓░░░░░░░░░░░░░░   42.87 %
+Markdown     53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JSON         39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Other        21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
