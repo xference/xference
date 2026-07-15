@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2026 - To: 13 July 2026
+From: 07 July 2026 - To: 14 July 2026
 
-Total Time: 25 hrs 35 mins
+Total Time: 21 hrs 39 mins
 
-Markdown          6 hrs 43 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
-Python            6 hrs 19 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
-Go                3 hrs 43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-MATLAB            3 hrs 11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-JavaScript        1 hr 47 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Python            5 hrs 38 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
+Markdown          5 hrs 31 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
+MATLAB            3 hrs 11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Go                2 hrs 2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+JavaScript        1 hr 45 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 ```
 
 <!--END_SECTION:waka-->
