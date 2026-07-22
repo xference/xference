@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2026 - To: 20 July 2026
+From: 14 July 2026 - To: 21 July 2026
 
-Total Time: 9 hrs 49 mins
+Total Time: 9 hrs 31 mins
 
-Markdown     3 hrs 3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.19 %
-Go           2 hrs 8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
-Dart         1 hr 35 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-PowerShell   47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-JSON         40 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Markdown     3 hrs 3 mins          ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+Go           1 hr 49 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+Dart         1 hr 35 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+PowerShell   47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+JSON         40 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
 ```
 
 <!--END_SECTION:waka-->
