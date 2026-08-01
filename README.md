@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2026 - To: 30 July 2026
+From: 24 July 2026 - To: 31 July 2026
 
-Total Time: 43 hrs 15 mins
+Total Time: 40 hrs 40 mins
 
-MATLAB        14 hrs 40 mins        ████████▒░░░░░░░░░░░░░░░░   33.90 %
-Markdown      11 hrs 14 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
-Objective-C   5 hrs 47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Go            3 hrs 5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-XML           2 hrs 10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+MATLAB        14 hrs 42 mins        █████████░░░░░░░░░░░░░░░░   36.16 %
+Markdown      11 hrs 6 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
+Objective-C   3 hrs 30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Vue           2 hrs 17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+JavaScript    2 hrs 16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
