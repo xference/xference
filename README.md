@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-Total Time: 13 hrs 25 mins
+Total Time: 10 hrs 48 mins
 
-Other        6 hrs 45 mins         ████████▒░░░░░░░░░░░░░░░░   33.48 %
-Markdown     5 hrs 11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-Python       4 hrs 35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-Go           1 hr 12 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-JavaScript   59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Other        6 hrs 2 mins          █████████░░░░░░░░░░░░░░░░   35.90 %
+Markdown     4 hrs 41 mins         ███████░░░░░░░░░░░░░░░░░░   27.84 %
+Python       3 hrs 53 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
+JavaScript   47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JSON         44 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
